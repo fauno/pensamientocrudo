@@ -1,0 +1,72 @@
+---
+author: Aaron Swartz
+title: Una vida offline
+---
+
+Una vida offline
+================
+
+18 de mayo de 2009
+
+[Link original] (http://www.aaronsw.com/weblog/offline)
+
+> Este artículo fue traducido por [emi420](https://github.com/emi420)
+> durante el Hackaton en memoria de Aaron Swartz, 2013-11-08
+
+Literalmente, tengo una computadora desde que nací. Internet no llegó
+mucho después: todavía recuerdo las direcciones de e-mail provistas
+por UUCP bang-paths. Difícilmente haya pasado un día en que no haya
+chequeado mi e-mail, por lo que debe ser una década.
+
+Internet me mantuvo conectado a la gente desde niño, todos mis mejores
+amigos estaban online; como adulto, todos mis colegas lo están. Mis
+trabajos no suceden en una oficina; se llevan acabo sobre el e-mail,
+donde el tiempo y el espacio no importan. La ventaja, es que puedo ir a
+cualquier lugar y aún así hacerlos. La contra, es que no puedo escapar
+de ellos.
+
+Necesito tomar un descanso. Mi vida se ha enredado con la tecnología y
+la presión, que dificilmente conozca otro tipo de vida. Así que estoy
+planeando pasar offline el mes de Junio (6 de Junio al 4 de Julio, para
+ser exacto). Estoy empacando la laptop y el cable modem y enviándolos
+a algún lugar lejano. Estoy yendo de nuevo al mundo del papel y los
+libros.
+
+Por supuesto, mi teléfono ahora también es una computadora, por lo
+que también se tendrá que ir. No tengo una línea fija, asi que si la
+gente quiere hablar conmigo tendrá que escribir cartas ([aquí está mi
+dirección] (http://www.aaronsw.com/contact)). Yo (increíblemente) no
+tengo relojes ni calendarios, así que ni siquiera se que hora es. Todo
+lo cual significa no más reuniones o coordinar para pasar el rato con
+gente. Supongo podrían llamarme, pero honestamente, deseo que no lo
+hagan - al menos en un principio.
+
+No me siento la clase de persona que podría sobrevivir en Walden
+Pond. Soy un comensal delicado y no un gran allegado de los animales.
+Por lo tanto, encerrarme en mi departamento es lo mas cercano que puedo
+conseguir. Por supuesto que estarán los empleados de las tiendas y la
+gente de la calle, pero estaré mayormente solo.
+
+He experimentado un poco con ello, recientemente tanto mi teléfono
+como mi laptop murieron, y es liberador. Caminando por la calle
+o esperando en una fila, me encuentro chequeando mi teléfono
+compulsívamente, usándolo para enviar mi mente hacia otro mundo de
+e-mails o noticias. Sin él, me siento con los pies en la tierra. Y con
+la laptop es aún peor: un atractivo mundo de mensajes instantáneos de
+amigos, [shows televisivos](http://www.hulu.com/watch/58538/) que te
+gelatinizan el cerebro, una pila interminable de e-mails que contestar.
+Es como un constante flujo de depresión. Un dia sin mi teléfono me hizo
+sentir como si fuera humano de nuevo.
+
+Quiero ser humano de nuevo. Aún si eso significa aislarme del resto de
+ustedes, humanos.
+
+¿Y qué si hay una emergencia? ¿Ha habido una emergencia alguna vez?  Lo
+mas urgente parece ser cuando mis servidores se caen. Lo cual apesta,
+pero necesito poder tomar distancia de eso. Si tienes cosas alojadas en
+una de mis máquinas, ponte en contacto conmigo ahora y voy a intentar
+darte suficientes privilegios para que puedas arreglar tú mismo las
+cosas si algo se rompe. Si algo es realmente una emergencia, estoy
+seguro que me encontrarás.
+
+Que tengas un lindo Junio.
