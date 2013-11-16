@@ -1,0 +1,64 @@
+---
+title: Cómo tener un trabajo como el mío
+author: Aaron Swartz
+---
+
+Cómo tener un trabajo como el mío
+=================================
+
+> Traducido por Rancho Electrónico durante el Hackatón en memoria de
+> Aaron Swartz, 8 y 9 de noviembre de 2013
+
+http://www.aaronsw.com/weblog/pcccjob
+
+Aparentemente mucha gente ha tenido la impresión equivocada de que en
+mi blog me siento todo el día a pensar en filosofía abstracta. Bueno,
+pues a lo mejor es algo parecido a eso, pero mi trabajo diario es
+mucho más emocionante en la actualidad. Soy cofundador del Comité de
+Campaña de Cambio Progresivo (BoldProgessives.org) y paso los días
+experimentando con nuevas formas para tener políticas progresistas
+aprobadas y políticos progresistas electos.
+
+Como mucha gente, crecí sientiéndome frustado con el mundo -- extremos
+de riqueza y de pobreza, guerras demenciales y sangrientas, leyes de
+monopolio intelectual desactualizadas, corporaciones grandes haciendo lo
+que les viene en gana.  Pero yo no tenía la menor idea de qué hacer al
+respecto. Escribía para los que ya estaban convencidos, marchaba en las
+calles se sintió como la protesta de los que no tienen poder, trabajando
+con gente en el movimiento no tendría el impacto deseado.
+
+Pero cuando mi amigo Larry Lessig decidió postularse al Congreso, me
+di cuenta que había algo que yo podía hacer. Durante la breve campaña
+fuimos inundados con ofertas de ayuda de los asesores, de las compañías
+de software y de servicios. Su tecnología fue invariablemente caduca e
+incompetente (las herramientas líderes de vanguardia fueron construidas
+a base de SQL Server), diseñadas pobremente y sin coordinación.  El
+consejo que ellos nos dieron fue horrible, su incompetencia fue casi un
+sabotaje y los precios que ellos nos cargaron nos podría haber llevado a
+la bancarrota.
+
+Comenzamos el Comité de Campaña de Cambio Progresivo en enero de 2009
+con la noción de que podríamos arreglar todo esto. Íbamos a ayudar a
+filtrar a los buenos asesores de los malos, redactar mejores prácticas
+y dirigir experimentos para aprender qué funciona. Sobre la marcha, nos
+hemos involucrado en campañas sobre distintos asuntos como - primero
+sobre la terrible cobertura que hizo la CNBC sobre la crisis económica,
+después gran parte del año trabajando para lograr que el Congreso
+aprobara un presupuesto para una opción pública de salud. De esta
+manera, obtuvimos más de 400 mil miembros y colectamos más de un millón
+de dólares de nuestros diferentes estrategias. No está mal para ser
+nuestro primer año.
+
+Pero ahora, así como las campañas de 2010 se intensifician, estamos
+regresando a nuestta misión original. Hemos trabajado campañas para
+poder encontrar un equipo talentoso, asesores competentes y técnicas de
+ahorro de dinero. Pero aún necesitamos algunos programadores talentosos
+que construyan la siguiente generación de herramientas de campaña. Hemos
+tenido ideas realmente emocionantes, pero necesitamos tu ayuda.
+
+Esta es la pregunta. ¿Quieres trabajar conmigo construyendo algunas
+herramientas sorprendentes para algunas campañas sorprendentes? De ser
+así, sólo envíame un e-mail a aaron (a) boldprogressives.org o sólo
+llena esta forma.
+
+Después, cuéntale a tus amigos. Tu país te necesita.
